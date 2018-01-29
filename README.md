@@ -1,5 +1,7 @@
 MSDS - Data Mining
+
 Lab1
+
 By Chiranjeevi Mallavarapu, Nithya Doss, Ramesh Simhabhatla, Ramya Mandava
 
 The IRS-990 dataset originates from United States Internal Revenue Service (IRS). The data includes financial information of non-profit/exempt organizations. For the purposes of this project, the dataset is selected from google public datasets at https://cloud.google.com/bigquery/public-data/irs-990 which makes it queryable easily. The datasets are further narrowed down to only organizations that filed during the year 2016 in order to get active organizations.
